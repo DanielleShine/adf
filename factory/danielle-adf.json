@@ -1,0 +1,9 @@
+{
+	"name": "danielle-adf",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "feb150ff-f2b5-48f4-b4e3-862c2a6735cb",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
